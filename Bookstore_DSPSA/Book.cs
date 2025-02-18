@@ -11,21 +11,32 @@ namespace Bookstore_DSPSA
         public string Name { get; set; }
         public string Author { get; set; }
         public double Price { get; set; }
-        public Type Genre { get; set; }
+        public List<Type> Genres { get; set; }
         public int Stock { get; set; }
 
-        public Book(string name, string author, double price, Type genre, int stock)
+        public Book(string name, string author, double price, int stock)
         {
             Name = name;
             Author = author;
             Price = price;
-            Genre = genre;
+            Genres = new List<Type>();
             Stock = stock;
+        }
+
+        public void AddGenre(Type t)
+        {
+            Genres.Add(t);
         }
 
         public override string ToString()
         {
-            return $"{Name} - {Author} - {Price}";
+            string s = $"{Name} - {Author} - {Price} - ";
+            foreach (Type t in Genres)
+            {
+                s += $"{t} ";
+            }
+
+            return s;
         }
 
     }

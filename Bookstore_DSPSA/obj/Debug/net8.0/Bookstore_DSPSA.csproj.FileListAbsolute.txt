@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\bin\Debug\net8.0\Bookstore_DSPSA.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\bin\Debug\net8.0\Bookstore_DSPSA.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\bin\Debug\net8.0\Bookstore_DSPSA.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\bin\Debug\net8.0\Bookstore_DSPSA.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\bin\Debug\net8.0\Bookstore_DSPSA.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\refint\Bookstore_DSPSA.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\Bookstore_DSPSA.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Bookstore_DSPSA\obj\Debug\net8.0\ref\Bookstore_DSPSA.dll

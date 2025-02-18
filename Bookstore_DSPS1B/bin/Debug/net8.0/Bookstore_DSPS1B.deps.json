@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bookstore_DSPS1B/1.0.0": {
+        "runtime": {
+          "Bookstore_DSPS1B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bookstore_DSPS1B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
