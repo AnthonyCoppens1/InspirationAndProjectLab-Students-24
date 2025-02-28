@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\bin\Debug\net8.0\School.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\bin\Debug\net8.0\School.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\bin\Debug\net8.0\School.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\bin\Debug\net8.0\School.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\bin\Debug\net8.0\School.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\School.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\School.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\School.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\School.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\refint\School.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\School.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\School.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\teacher\Week3-OO\School\obj\Debug\net8.0\ref\School.dll
