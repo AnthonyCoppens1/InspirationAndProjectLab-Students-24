@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\bin\Debug\net8.0\Spotify-ADI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\bin\Debug\net8.0\Spotify-ADI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\bin\Debug\net8.0\Spotify-ADI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\bin\Debug\net8.0\Spotify-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\bin\Debug\net8.0\Spotify-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\refint\Spotify-ADI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\Spotify-ADI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-ADI\obj\Debug\net8.0\ref\Spotify-ADI.dll

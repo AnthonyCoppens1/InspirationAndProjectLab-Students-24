@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\bin\Debug\net8.0\Spotify-DSPSb.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\bin\Debug\net8.0\Spotify-DSPSb.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\bin\Debug\net8.0\Spotify-DSPSb.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\bin\Debug\net8.0\Spotify-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\bin\Debug\net8.0\Spotify-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\refint\Spotify-DSPSb.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\Spotify-DSPSb.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\InspirationAndProjectLab\InspirationAndProjectLab-Students-24\Week4\Spotify-DSPSb\obj\Debug\net8.0\ref\Spotify-DSPSb.dll
