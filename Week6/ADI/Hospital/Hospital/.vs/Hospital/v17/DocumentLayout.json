@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\",
+  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\antho\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|c:\\users\\gebruiker\\onedrive\\documenten\\anthony-tm\\inspirationandprojectlab\\inspirationandprojectlab-students-24\\week6\\adi\\hospital\\hospital\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C7243DA-69F9-4A5A-88B3-A8EB408F5F04}|Hospital.csproj|solutionrelative:area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,61 +52,61 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Data.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Data.cs",
               "RelativeDocumentMoniker": "Data.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Data.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Data.cs",
               "RelativeToolTip": "Data.cs",
-              "ViewState": "AQIAAIoAAAAAAAAAAAAQwJMAAAAiAAAA",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAYwJwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T13:56:47.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Hospital.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Hospital.cs",
               "RelativeDocumentMoniker": "Hospital.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Hospital.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Hospital.cs",
               "RelativeToolTip": "Hospital.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAkwCIAAAAwAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAA8wC4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T22:36:23.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Person.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowBUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T22:36:16.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Patient.cs",
               "RelativeDocumentMoniker": "Patient.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Patient.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Patient.cs",
               "RelativeToolTip": "Patient.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwBkAAAAiAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T22:36:10.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Nurse.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Nurse.cs",
               "RelativeDocumentMoniker": "Nurse.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Nurse.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Nurse.cs",
               "RelativeToolTip": "Nurse.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Doctor.cs",
               "RelativeDocumentMoniker": "Doctor.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Doctor.cs",
               "RelativeToolTip": "Doctor.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAowBsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,23 +130,24 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Area.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Area.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Area.cs",
               "RelativeDocumentMoniker": "Area.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Area.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Area.cs",
               "RelativeToolTip": "Area.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T22:36:02.523Z"
+              "WhenOpened": "2024-03-10T22:36:02.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\Gebruiker\\OneDrive\\Documenten\\Anthony-TM\\InspirationAndProjectLab\\InspirationAndProjectLab-Students-24\\Week6\\ADI\\Hospital\\Hospital\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACIAAAAkAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T22:35:29.145Z",
               "EditorCaption": ""
